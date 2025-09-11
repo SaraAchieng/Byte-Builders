@@ -1,0 +1,235 @@
+  {
+    "projects": [
+      {
+        "id": 1,
+        "title": "Kilimani Executive Apartments",
+        "description": "A contemporary residential development with high-end finishes, located in the serene Kilimani neighborhood of Nairobi.",
+        "category": "residential",
+        "image_url": "https://images.unsplash.com/photo-1756302555654-5e413da2d1b8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "completion_date": "2023-05-15",
+        "client": "The Mwangis",
+        "location": "Nairobi, Kenya",
+        "budget": 75000000,
+        "featured": true
+      },
+      {
+        "id": 2,
+        "title": "Mombasa Port Logistics Hub",
+        "description": "A state-of-the-art logistics and warehousing facility designed to streamline import and export operations at the Port of Mombasa.",
+        "category": "commercial",
+        "image_url": "https://images.unsplash.com/photo-1609972626304-96959161d195?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "completion_date": "2024-02-28",
+        "client": "Coastal Logistics Ltd.",
+        "location": "Mombasa, Kenya",
+        "budget": 120000000,
+        "featured": true
+      },
+      {
+        "id": 3,
+        "title": "Industrial Park Expansion",
+        "description": "The expansion of an existing industrial park to accommodate new manufacturing plants and distribution centers.",
+        "category": "industrial",
+        "image_url": "https://plus.unsplash.com/premium_photo-1682144751367-bb10849f3253?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "completion_date": "2022-11-10",
+        "client": "Kenya Industrial Estates",
+        "location": "Athi River, Kenya",
+        "budget": 250000000,
+        "featured": false
+      },
+      {
+        "id": 4,
+        "title": "Old Town Lamu Heritage Renovation",
+        "description": "A sensitive renovation of a historic Swahili house in Lamu's Old Town, preserving its unique architectural heritage while modernizing its amenities.",
+        "category": "renovation",
+        "image_url": "https://plus.unsplash.com/premium_photo-1697730083060-f024eecacd48?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "completion_date": "2023-08-20",
+        "client": "Lamu Cultural Trust",
+        "location": "Lamu, Kenya",
+        "budget": 45000000,
+        "featured": true
+      },
+      {
+        "id": 5,
+        "title": "The Rift Valley Retreat",
+        "description": "An exclusive residential retreat featuring a collection of eco-friendly homes with stunning views of the Great Rift Valley.",
+        "category": "residential",
+        "image_url": "https://images.unsplash.com/photo-1612637968894-660373e23b03?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "completion_date": "2024-01-05",
+        "client": "Private Investor",
+        "location": "Nakuru, Kenya",
+        "budget": 350000000,
+        "featured": false
+      }
+    ],
+    "teamMembers": [
+      {
+        "id": 1,
+        "name": "Alex Wanjala",
+        "position": "Lead Architect",
+        "bio": "Alex is a seasoned architect with over 15 years of experience in designing sustainable and modern structures. He is passionate about integrating eco-friendly materials and innovative design principles.",
+        "image_url": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Sustainable Architecture",
+        "experience_years": 15,
+        "email": "alex.wanjala@example.com"
+      },
+      {
+        "id": 2,
+        "name": "Jane Moraa",
+        "position": "Project Manager",
+        "bio": "Jane is an expert in project management, ensuring that all projects are completed on time and within budget. Her attention to detail and strong leadership skills make her an invaluable asset to the team.",
+        "image_url": "https://images.unsplash.com/photo-1633419798503-0b0c628f267c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Construction Management",
+        "experience_years": 10,
+        "email": "jane.moraa@example.com"
+      },
+      {
+        "id": 3,
+        "name": "Chris Otieno",
+        "position": "Structural Engineer",
+        "bio": "Chris specializes in structural engineering, focusing on the integrity and safety of all our constructions. He has a solid background in complex commercial and industrial projects.",
+        "image_url": "https://images.unsplash.com/photo-1688841747582-41097036109d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Industrial Engineering",
+        "experience_years": 12,
+        "email": "chris.otieno@example.com"
+      },
+      {
+        "id": 4,
+        "name": "Fiona Njeri",
+        "position": "Interior Designer",
+        "bio": "Fiona is a creative interior designer known for her ability to transform spaces into beautiful and functional environments. She works closely with clients to bring their vision to life.",
+        "image_url": "https://images.unsplash.com/photo-1742473716872-ff82599f90db?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Interior Design",
+        "experience_years": 8,
+        "email": "fiona.njeri@example.com"
+      },
+      {
+        "id": 5,
+        "name": "Daniel Kimani",
+        "position": "Civil Engineer",
+        "bio": "Daniel is an experienced civil engineer with expertise in urban planning and infrastructure development. He ensures that our projects are well-integrated with existing public services and systems.",
+        "image_url": "https://plus.unsplash.com/premium_photo-1750887241107-a2171eb5d72c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Infrastructure",
+        "experience_years": 9,
+        "email": "daniel.kimani@example.com"
+      }
+    ],
+    "services": [
+      {
+        "id": 1,
+        "title": "Architectural Design",
+        "description": "We specialize in creating innovative and functional architectural blueprints for residential, commercial, and industrial projects. Our designs focus on sustainability and modern aesthetics.",
+        "icon": "layout-grid",
+        "features": [
+          "Conceptual Design",
+          "3D Modeling & Visualization",
+          "Construction Documentation",
+          "Permit & Planning Assistance"
+        ],
+        "price_range": "Ksh 50,000 - Ksh 500,000"
+      },
+      {
+        "id": 2,
+        "title": "Project Management",
+        "description": "From project initiation to completion, our team provides comprehensive management services to ensure your project is delivered on time, within budget, and to the highest quality standards.",
+        "icon": "clipboard-check",
+        "features": [
+          "Budget & Schedule Management",
+          "Subcontractor Coordination",
+          "Quality Control",
+          "Risk Assessment"
+        ],
+        "price_range": "Ksh 80,000 - Ksh 1,000,000"
+      },
+      {
+        "id": 3,
+        "title": "Structural Engineering",
+        "description": "Our engineers design safe, efficient, and robust structural systems. We provide solutions for new constructions, renovations, and structural assessments.",
+        "icon": "building",
+        "features": [
+          "Foundation Design",
+          "Load-Bearing Calculations",
+          "Seismic Analysis",
+          "Structural Inspections"
+        ],
+        "price_range": "Ksh 40,000 - Ksh 450,000"
+      },
+      {
+        "id": 4,
+        "title": "Interior Design",
+        "description": "We craft beautiful and functional interior spaces that reflect your style and enhance your living or working environment. Our services cover everything from space planning to furniture selection.",
+        "icon": "paintbrush",
+        "features": [
+          "Space Planning",
+          "Material & Finish Selection",
+          "Lighting Design",
+          "Custom Furniture Design"
+        ],
+        "price_range": "Ksh 35,000 - Ksh 300,000"
+      },
+      {
+        "id": 5,
+        "title": "Renovation & Remodeling",
+        "description": "Whether you want to update a single room or completely transform a building, our renovation services breathe new life into existing structures while preserving their character.",
+        "icon": "hammer",
+        "features": [
+          "Full Home Renovation",
+          "Kitchen & Bathroom Remodel",
+          "Structural Upgrades",
+          "Historic Restoration"
+        ],
+        "price_range": "Ksh 60,000 - Ksh 750,000"
+      }
+    ],
+    "contactSubmissions": [
+      {
+        "id": 1,
+        "name": "David Wekesa",
+        "email": "david.wekesa@example.com",
+        "phone": "+254712345678",
+        "project_type": "residential",
+        "budget": "250k-500k",
+        "message": "I'm looking to build a new family home in Nairobi and would like to get a quote. We need a design for a 4-bedroom house on a quarter-acre plot.",
+        "timeline": "6-12 months"
+      },
+      {
+        "id": 2,
+        "name": "Sarah Omondi",
+        "email": "sarah.omondi@example.com",
+        "phone": "+254723456789",
+        "project_type": "commercial",
+        "budget": "500k+",
+        "message": "We need architectural and engineering services for a new office building in Westlands. The project requires a modern, multi-story design with sustainable features.",
+        "timeline": "1-2 years"
+      },
+      {
+        "id": 3,
+        "name": "Kenya Manufacturing Ltd.",
+        "email": "info@kenyamfg.com",
+        "phone": "+254734567890",
+        "project_type": "industrial",
+        "budget": "500k+",
+        "message": "Our company is planning to expand our factory in Athi River. We require a consultant to help us with the structural design and expansion plans.",
+        "timeline": "18 months"
+      },
+      {
+        "id": 4,
+        "name": "Fatima Hassan",
+        "email": "fatima.hassan@example.com",
+        "phone": "+254745678901",
+        "project_type": "renovation",
+        "budget": "50k-100k",
+        "message": "I want to remodel my kitchen and living room. I need help with a new layout, material selection, and overall design ideas.",
+        "timeline": "3-6 months"
+      },
+      {
+        "id": 5,
+        "name": "James Maina",
+        "email": "james.maina@example.com",
+        "phone": "+254756789012",
+        "project_type": "consultation",
+        "budget": "under-50k",
+        "message": "I'm in the early stages of planning a small residential project and need a professional consultation to understand the feasibility and initial steps.",
+        "timeline": "ASAP"
+      }
+    ]
+  }
