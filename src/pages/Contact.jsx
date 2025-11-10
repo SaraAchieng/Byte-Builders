@@ -53,7 +53,7 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email",
-      details: "nfo@bytebuilders.com",
+      details: "info@bytebuilders.com",
       subtitle: "We'll respond within 24hrs",
     },
     {
