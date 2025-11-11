@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // Base API configuration
-const API_BASE_URL = "http://localhost:3000"; // Local development server URL
+const API_BASE_URL = "https://byte-builders-3sb9.onrender.com"; // Local development server URL
 
 // 1. Create a centralized Axios client instance
 const apiClient = axios.create({
