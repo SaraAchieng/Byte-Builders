@@ -169,7 +169,7 @@ export default function Projects() {
                         )}
                         {project.budget && (
                           <div className="text-sm font-medium text-amber-600">
-                            ${project.budget.toLocaleString()}
+                            Ksh {project.budget.toLocaleString()}
                           </div>
                         )}
                       </div>
