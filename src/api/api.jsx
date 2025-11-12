@@ -24,7 +24,7 @@ export const Project = {
     return response.data;
   }, // NEW: Get up to 3 featured projects, sorted by completion date (newest first)
 
-  async getFeatured(limit = 3) {
+  async getFeatured(limit = 6) {
     try {
       // These parameters are standard for tools like json-server:
       // featured=true: Filters projects where the 'featured' property is true

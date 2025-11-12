@@ -14,9 +14,9 @@
 
  const loadFeaturedProjects = async () => {
    try {
-     // OLD: const data = await Project.filter({ featured: true }, "-completion_date", 3);
+     // OLD: const data = await Project.filter({ featured: true }, "-completion_date", 5);
      // NEW: Use the dedicated getFeatured method
-     const data = await Project.getFeatured(3);
+     const data = await Project.getFeatured(5);
      setProjects(data);
    } catch (error) {
      console.error("Error loading featured projects:", error);
@@ -30,7 +30,7 @@
        <section className="py-20 bg-slate-900">
          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-             {[...Array(3)].map((_, index) => (
+             {[...Array(5)].map((_, index) => (
                <div
                  key={index}
                  className="bg-slate-800 rounded-2xl h-96 animate-pulse"
